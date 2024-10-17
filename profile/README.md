@@ -1,5 +1,4 @@
 <img src="https://github.com/user-attachments/assets/f8ff870b-ae46-4bb3-ae52-6eaad239db01" alt="ChartDB" />
-Hi All 🐘👋
 
 # Welcome to ChartDB 🚀
 
